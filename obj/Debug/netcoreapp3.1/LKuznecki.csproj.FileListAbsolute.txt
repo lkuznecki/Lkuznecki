@@ -1,0 +1,9 @@
+C:\Users\w60060\Desktop\PROJEKT PROGRAMOWANIE poprawiony\obj\Debug\netcoreapp3.1\LKuznecki.csprojAssemblyReference.cache
+C:\Users\w60060\Desktop\PROJEKT PROGRAMOWANIE poprawiony\obj\Debug\netcoreapp3.1\Views\Crud.g.cs
+C:\Users\w60060\Desktop\PROJEKT PROGRAMOWANIE poprawiony\obj\Debug\netcoreapp3.1\Views\Window1.g.cs
+C:\Users\w60060\Desktop\PROJEKT PROGRAMOWANIE poprawiony\obj\Debug\netcoreapp3.1\Views\Window2.g.cs
+C:\Users\w60060\Desktop\PROJEKT PROGRAMOWANIE poprawiony\obj\Debug\netcoreapp3.1\Views\Window3.g.cs
+C:\Users\w60060\Desktop\PROJEKT PROGRAMOWANIE poprawiony\obj\Debug\netcoreapp3.1\Views\Window4.g.cs
+C:\Users\w60060\Desktop\PROJEKT PROGRAMOWANIE poprawiony\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\w60060\Desktop\PROJEKT PROGRAMOWANIE poprawiony\obj\Debug\netcoreapp3.1\LKuznecki_MarkupCompile.cache
+C:\Users\w60060\Desktop\PROJEKT PROGRAMOWANIE poprawiony\obj\Debug\netcoreapp3.1\LKuznecki_MarkupCompile.lref

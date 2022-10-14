@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhINPTHN5+ajySC04IvsXSmBk6M3an6B902ZZwX2MvB0iQJN6wbZv/oksrKChtEhqx4iWuMNjLfLCdCb3WFSRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\w60060\\Desktop\\repo\\PROJEKT PROGRAMOWANIE\\LKuznecki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w60060\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
